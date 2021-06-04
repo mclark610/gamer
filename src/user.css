@@ -1,0 +1,11 @@
+ul {
+    list-style-type:none;
+    padding-left: 0;
+}
+
+li span {
+    float:center;
+    width: 10%;
+    display:inline-block;
+
+}
